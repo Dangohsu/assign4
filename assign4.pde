@@ -212,9 +212,7 @@ void draw() {
         textSize(10);
         text("102208026", hpFrameX + 320, 25);
      
-      //lose-hp alert
-        textSize(15);
-        text("You lose hp if you touch the enemies!", 200, 460);
+      
 
     //treasure
       //set           
